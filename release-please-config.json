@@ -22,6 +22,9 @@
   "include-v-in-tag": true,
   "include-component-in-tag": true,
   "packages": {
-    "packages/greet": {}
+    "packages/greet": {},
+    "packages/shout": {
+      "component": "@zeflo/shout"
+    }
   }
 }
