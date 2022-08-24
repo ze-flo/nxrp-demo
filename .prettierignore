@@ -2,3 +2,5 @@
 
 /dist
 /coverage
+
+.release-please-manifest.json
