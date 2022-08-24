@@ -20,5 +20,8 @@
   ],
   "always-link-local": false,
   "include-v-in-tag": true,
-  "include-component-in-tag": true
+  "include-component-in-tag": true,
+  "packages": {
+    "packages/greet": {}
+  }
 }
