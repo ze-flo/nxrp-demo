@@ -27,10 +27,10 @@
       "component": "@zeflo/shout"
     },
     "packages/sparkle": {
-      "component": "✨✨ Sparkle ✨✨"
+      "component": "Sparkle"
     },
     "packages/pidgin": {
-      "component": "Pidgin 🤙"
+      "component": "Pidgin"
     },
     "packages/demo": {}
   }
