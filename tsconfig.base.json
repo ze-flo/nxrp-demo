@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@zeflo/demo": ["packages/demo/src/index.ts"],
       "@zeflo/greet": ["packages/greet/src/index.ts"],
       "@zeflo/pidgin": ["packages/pidgin/src/index.ts"],
       "@zeflo/shout": ["packages/shout/src/index.ts"],
