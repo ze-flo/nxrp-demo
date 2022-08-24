@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "demo": "packages/demo",
+    "foo": "packages/foo",
     "greet": "packages/greet",
     "pidgin": "packages/pidgin",
     "shout": "packages/shout",
