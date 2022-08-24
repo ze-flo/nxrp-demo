@@ -1,4 +1,5 @@
 {
+  "bootsrap-sha": "74a86f548dc42d27376fc71a0180535577b0a074",
   "plugins": ["node-workspace"],
   "changelog-sections": [
     { "type": "feat", "section": ":rocket:  Features" },
