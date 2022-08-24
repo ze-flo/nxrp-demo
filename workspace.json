@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "greet": "packages/greet",
+    "pidgin": "packages/pidgin",
     "shout": "packages/shout",
     "sparkle": "packages/sparkle"
   }

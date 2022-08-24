@@ -28,6 +28,9 @@
     },
     "packages/sparkle": {
       "component": "✨✨ Sparkle ✨✨"
+    },
+    "packages/pidgin": {
+      "component": "Pidgin 🤙"
     }
   }
 }
