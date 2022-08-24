@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@zeflo/greet": ["packages/greet/src/index.ts"],
-      "@zeflo/shout": ["packages/shout/src/index.ts"]
+      "@zeflo/shout": ["packages/shout/src/index.ts"],
+      "@zeflo/sparkle": ["packages/sparkle/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "greet": "packages/greet",
-    "shout": "packages/shout"
+    "shout": "packages/shout",
+    "sparkle": "packages/sparkle"
   }
 }

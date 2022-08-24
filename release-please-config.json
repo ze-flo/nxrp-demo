@@ -25,6 +25,10 @@
     "packages/greet": {},
     "packages/shout": {
       "component": "@zeflo/shout"
+    },
+    "packages/sparkle": {
+      "component": "✨✨ Sparkle ✨✨",
+      "release-as": "0.2.0"
     }
   }
 }
